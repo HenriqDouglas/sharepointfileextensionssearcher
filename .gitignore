@@ -1,0 +1,5 @@
+*.pyc pycache/
+.vscode/ .idea/
+venv/ env/
+*.log *.bak
+*.env
